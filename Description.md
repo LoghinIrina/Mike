@@ -46,3 +46,18 @@ Motors
 
 ### Third method
 The third method is still a work in progress, and I’ll post an update as soon as I finish it.
+### Main Components:
+- 4WD Smart Car Chassis Kit <https://sigmanortec.ro/Kit-sasiu-Smart-Car-4WD-p136281803> 
+- Step-Down Converter <https://sigmanortec.ro/Modul-coborator-tensiune-XL4015-5-36VDC-5A-75W-cu-display-p158469512>
+- Motor Driver ×2 <https://ardushop.ro/ro/motoare-si-drivere/1753-modul-driver-dual-de-motoare-25-a-6427854026408.html>
+- Red Breadboard <https://www.emag.ro/breadboard-170-puncte-ai188-s461/pd/D7M90YMBM/>
+- ESP32 <https://sigmanortec.ro/placa-dezvoltare-esp32-ch340c-30p-usb-c-wifi-si-bluetooth>
+- 2S LiPo Battery XT60 <https://www.aliexpress.com/item/1005007883555706.html>
+#### Other items needed:
+- dupont wires
+- soldering iron
+- 18AWG wire
+- XT60 connector
+- 5A or 7.5A fuse
+- fuse holder
+- double-sided tape
